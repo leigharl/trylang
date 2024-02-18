@@ -1,0 +1,767 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+  box-sizing: border-box;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 100%;
+  margin: 0;
+  font-size: 1.6rem;
+}
+.desktop-1-HK5 {
+  width: 100%;
+  height: auto;
+  position: relative;
+  overflow: hidden;
+  background-color: #db7093;
+}
+@media only screen and (max-width: 768px) {
+  .desktop-1-HK5 {
+    height: auto;
+  }
+  .desktop-1-HK5 .contact-us-Jjy {
+    width: 90%;
+    padding: 5.95rem 2rem 9.2rem 2rem;
+    }
+}
+#name, #email, #message {
+  width: 90%;
+}
+
+.desktop-1-HK5 .contact-us-Jjy {
+  box-sizing: border-box;
+  padding: 5.95rem 32.3rem 9.2rem 29.4rem;
+  width: 160.5rem;
+  height: 91.2rem;
+  position: absolute;
+  left: 0;
+  top: 305.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #fa2a55;
+}
+.desktop-1-HK5 .contact-us-Jjy .contact-us--LyV {
+  margin: 0rem 0rem 6.25rem 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4.5rem;
+  font-weight: 400;
+  line-height: 1.4225;
+  color: #ffffff;
+  font-family: Michroma, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+#name {
+  margin: 0rem 0.4rem 2rem 0rem;
+  box-sizing: border-box;
+  padding: 0.7rem 3.7rem;
+  width: 84.1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.75;
+  letter-spacing: 0.1rem;
+  white-space: nowrap;
+  background-color: rgba(147, 112, 219, 0.5);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+#name::placeholder{
+  color: #ffffff;
+  font-family: Sofadi One, 'Source Sans Pro';
+}
+#email {
+  margin: 0rem 0.4rem 2.9rem 0rem;
+  box-sizing: border-box;
+  padding: 0.7rem 3.6rem;
+  width: 84.1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.75;
+  letter-spacing: 0.1rem;
+  white-space: nowrap;
+  background-color: rgba(147, 112, 219, 0.5);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+#email::placeholder{
+  color: #ffffff;
+  font-family: Sofadi One, 'Source Sans Pro';
+}
+#message {
+  margin: 0rem 0rem 4.3rem 0.4rem;
+  box-sizing: border-box;
+  padding: 2.05rem 3.45rem;
+  width: 84.1rem;
+  height: 27.5rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.75;
+  letter-spacing: 0.1rem;
+  white-space: nowrap;
+  background-color: #dda0dd;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+#message::placeholder{
+  color: #ffffff;
+  font-family: Sofadi One, 'Source Sans Pro';
+}
+.desktop-1-HK5 .contact-us-Jjy .auto-group-a9a7-Dxj {
+  margin: 0rem 29.8rem 4.7rem 32.3rem;
+  width: 90%;
+  height: 7.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.75;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  background-color: #db7093;
+  border-radius: 20px;
+  font-family: Sofadi One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .contact-us-Jjy .icons-4iT {
+  margin: 0rem 7.4rem 0rem 10.3rem;
+  box-sizing: border-box;
+  padding-right: 0.3rem;
+  width: calc(100% - 17.7rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .contact-us-Jjy .icons-4iT .social-icons-KuH {
+  margin: 0rem 10.7rem 0.018rem 0rem;
+  width: 4.8001rem;
+  height: 4.7824rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .contact-us-Jjy .icons-4iT .social-icons-qsd {
+  margin: 0rem 10.703rem 0.001rem 0rem;
+  width: 4.7972rem;
+  height: 4.7991rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .contact-us-Jjy .icons-4iT .social-icons-mWP {
+  margin: 0rem 10.796rem 0.2rem 0rem;
+  width: 4.704rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .contact-us-Jjy .icons-4iT .social-icons-VxB {
+  margin: 0rem 11.1rem 0.28rem 0rem;
+  width: 4.8rem;
+  height: 4.72rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .contact-us-Jjy .icons-4iT .social-icons-bkK {
+  width: 4.1rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 {
+  box-sizing: border-box;
+  padding: 13.5rem 0rem 7.9rem 0.1rem;
+  width: 144rem;
+  height: 305.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .hero-8dm {
+  margin: 0rem 5rem 16.6rem 15rem;
+  width: calc(100% - 20rem);
+  height: 48.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .hero-8dm .pic1--SuM {
+  margin: 1.9rem 11.5rem 3.3rem 0rem;
+  box-sizing: border-box;
+  padding: 0.9rem 4.4rem 0.9rem 4.4rem;
+  height: calc(100% - 5.2rem);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-1.png');
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .hero-8dm .pic1--SuM .pic-removebg-preview-1-wLK {
+  width: 26.1rem;
+  height: 39.4731rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 16.2114rem;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .hero-8dm .auto-group-q5pu-cBZ {
+  width: 77.5rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .hero-8dm .auto-group-q5pu-cBZ .auto-group-xc8w-Z6o {
+  box-sizing: border-box;
+  padding: 0rem 0rem 1.35rem 26rem;
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .hero-8dm .auto-group-q5pu-cBZ .auto-group-xc8w-Z6o .welcome-to-my-portfolio-GX1 {
+  margin: 0rem 2.5rem 2.65rem 0rem;
+  text-align: right;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.165;
+  color: #ffffff;
+  font-family: Sofadi One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .hero-8dm .auto-group-q5pu-cBZ .auto-group-xc8w-Z6o .hi-i-am-leigh-anne-lopez-tgo {
+  text-align: right;
+  display: flex;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 0.955;
+  color: #ffffff;
+  font-family: Hubballi, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .hero-8dm .auto-group-q5pu-cBZ .box1-DDH {
+  box-sizing: border-box;
+  padding: 3.1rem 1.9rem 2.4rem 2.7rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #dda0dd;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .hero-8dm .auto-group-q5pu-cBZ .box1-DDH .auto-group-htcf-jBd {
+  margin: 0rem 0rem 4.55rem 0.5rem;
+  width: calc(100% - 0.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .hero-8dm .auto-group-q5pu-cBZ .box1-DDH .auto-group-htcf-jBd .dsign-Ffm {
+  margin-right: 70.4rem;
+  width: 1rem;
+  height: 1.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .hero-8dm .auto-group-q5pu-cBZ .box1-DDH .auto-group-htcf-jBd .dsign-zdM {
+  width: 1rem;
+  height: 1.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .hero-8dm .auto-group-q5pu-cBZ .box1-DDH .a-driven-and-committed-student-of-information-technology-who-is-committed-to-keeping-up-with-the-latest-developments-in-the-field-i-have-developed-my-understanding-in-several-areas-of-information-technology-during-my-academic-career-by-fusing-theory-with-real-world-applications-ipF {
+  margin: 0rem 1.5rem 3.25rem 0rem;
+  max-width: 69.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.4;
+  letter-spacing: 0.125rem;
+  color: #ffffff;
+  font-family: Sofadi One, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .hero-8dm .auto-group-q5pu-cBZ .box1-DDH .auto-group-8dzq-roy {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .hero-8dm .auto-group-q5pu-cBZ .box1-DDH .auto-group-8dzq-roy .dsign-Pou {
+  margin-right: 70.9rem;
+  width: 1rem;
+  height: 1.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .hero-8dm .auto-group-q5pu-cBZ .box1-DDH .auto-group-8dzq-roy .dsign-jcs {
+  width: 1rem;
+  height: 1.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .about-me-4v3 {
+  margin: 0rem 0rem 14.35rem 0.4rem;
+  box-sizing: border-box;
+  padding: 2.7rem 9.1rem 0rem 7.5rem;
+  width: 160.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #9370db;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .about-me-4v3 .about-me--BDy {
+  margin: 0rem 0rem 5rem 1.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4.5rem;
+  font-weight: 400;
+  line-height: 1.4225;
+  color: #ffffff;
+  font-family: Michroma, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .about-me-4v3 .auto-group-4nm5-J3h {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .about-me-4v3 .auto-group-4nm5-J3h .auto-group-1v7h-S9u {
+  margin: 0rem 9.3rem 4.7rem 0rem;
+  width: 87.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .about-me-4v3 .auto-group-4nm5-J3h .auto-group-1v7h-S9u .info-mhy {
+  margin-bottom: 2.7rem;
+  width: 100%;
+  height: 47.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .about-me-4v3 .auto-group-4nm5-J3h .auto-group-1v7h-S9u .info-mhy .rectangle-2-WfZ {
+  width: 87.2rem;
+  height: 46.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ddccee;
+  border-radius: 5rem;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .about-me-4v3 .auto-group-4nm5-J3h .auto-group-1v7h-S9u .info-mhy .hello-im-leigh-was-anne-lopez-an-aspiring-it-enthusiast-with-a-love-for-turning-complex-problems-into-unique-solutions-currently-studying-a-bachelor-of-science-in-information-technology-at-dalubhasaan-ng-lungsod-ng-lucena-i-am-extremely-committed-to-the-ever-changing-world-of-technologymy-academic-path-has-provided-me-with-a-solid-foundation-in-programming-and-web-design-as-well-as-honed-my-html-css-and-javascript-skills-throughout-my-education-ive-maintained-a-high-level-of-interest-looking-for-ways-to-extend-my-knowledge-and-improve-my-problem-solving-skills-for-more-of-my-information-you-can-open-my-resume-below-eWs {
+  width: 76rem;
+  height: 41.2rem;
+  position: absolute;
+  left: 5.65rem;
+  top: 6.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.4225;
+  color: #000000;
+  font-family: Michroma, 'Source Sans Pro';
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .about-me-4v3 .auto-group-4nm5-J3h .auto-group-1v7h-S9u .info-mhy .hello-im-leigh-was-anne-lopez-an-aspiring-it-enthusiast-with-a-love-for-turning-complex-problems-into-unique-solutions-currently-studying-a-bachelor-of-science-in-information-technology-at-dalubhasaan-ng-lungsod-ng-lucena-i-am-extremely-committed-to-the-ever-changing-world-of-technologymy-academic-path-has-provided-me-with-a-solid-foundation-in-programming-and-web-design-as-well-as-honed-my-html-css-and-javascript-skills-throughout-my-education-ive-maintained-a-high-level-of-interest-looking-for-ways-to-extend-my-knowledge-and-improve-my-problem-solving-skills-for-more-of-my-information-you-can-open-my-resume-below-eWs .hello-im-leigh-was-anne-lopez-an-aspiring-it-enthusiast-with-a-love-for-turning-complex-problems-into-unique-solutions-currently-studying-a-bachelor-of-science-in-information-technology-at-dalubhasaan-ng-lungsod-ng-lucena-i-am-extremely-committed-to-the-ever-changing-world-of-technologymy-academic-path-has-provided-me-with-a-solid-foundation-in-programming-and-web-design-as-well-as-honed-my-html-css-and-javascript-skills-throughout-my-education-ive-maintained-a-high-level-of-interest-looking-for-ways-to-extend-my-knowledge-and-improve-my-problem-solving-skills-for-more-of-my-information-you-can-open-my-resume-below-eWs-sub-0 {
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .about-me-4v3 .auto-group-4nm5-J3h .auto-group-1v7h-S9u .info-mhy .hello-im-leigh-was-anne-lopez-an-aspiring-it-enthusiast-with-a-love-for-turning-complex-problems-into-unique-solutions-currently-studying-a-bachelor-of-science-in-information-technology-at-dalubhasaan-ng-lungsod-ng-lucena-i-am-extremely-committed-to-the-ever-changing-world-of-technologymy-academic-path-has-provided-me-with-a-solid-foundation-in-programming-and-web-design-as-well-as-honed-my-html-css-and-javascript-skills-throughout-my-education-ive-maintained-a-high-level-of-interest-looking-for-ways-to-extend-my-knowledge-and-improve-my-problem-solving-skills-for-more-of-my-information-you-can-open-my-resume-below-eWs .hello-im-leigh-was-anne-lopez-an-aspiring-it-enthusiast-with-a-love-for-turning-complex-problems-into-unique-solutions-currently-studying-a-bachelor-of-science-in-information-technology-at-dalubhasaan-ng-lungsod-ng-lucena-i-am-extremely-committed-to-the-ever-changing-world-of-technologymy-academic-path-has-provided-me-with-a-solid-foundation-in-programming-and-web-design-as-well-as-honed-my-html-css-and-javascript-skills-throughout-my-education-ive-maintained-a-high-level-of-interest-looking-for-ways-to-extend-my-knowledge-and-improve-my-problem-solving-skills-for-more-of-my-information-you-can-open-my-resume-below-eWs-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.4225;
+  color: #000000;
+  font-family: Michroma, 'Source Sans Pro';
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .about-me-4v3 .auto-group-4nm5-J3h .auto-group-1v7h-S9u .info-mhy .hello-im-leigh-was-anne-lopez-an-aspiring-it-enthusiast-with-a-love-for-turning-complex-problems-into-unique-solutions-currently-studying-a-bachelor-of-science-in-information-technology-at-dalubhasaan-ng-lungsod-ng-lucena-i-am-extremely-committed-to-the-ever-changing-world-of-technologymy-academic-path-has-provided-me-with-a-solid-foundation-in-programming-and-web-design-as-well-as-honed-my-html-css-and-javascript-skills-throughout-my-education-ive-maintained-a-high-level-of-interest-looking-for-ways-to-extend-my-knowledge-and-improve-my-problem-solving-skills-for-more-of-my-information-you-can-open-my-resume-below-eWs .hello-im-leigh-was-anne-lopez-an-aspiring-it-enthusiast-with-a-love-for-turning-complex-problems-into-unique-solutions-currently-studying-a-bachelor-of-science-in-information-technology-at-dalubhasaan-ng-lungsod-ng-lucena-i-am-extremely-committed-to-the-ever-changing-world-of-technologymy-academic-path-has-provided-me-with-a-solid-foundation-in-programming-and-web-design-as-well-as-honed-my-html-css-and-javascript-skills-throughout-my-education-ive-maintained-a-high-level-of-interest-looking-for-ways-to-extend-my-knowledge-and-improve-my-problem-solving-skills-for-more-of-my-information-you-can-open-my-resume-below-eWs-sub-2 {
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .about-me-4v3 .auto-group-4nm5-J3h .auto-group-1v7h-S9u .click-u2o {
+  margin: 0rem 30.5rem 0rem 29rem;
+  width: calc(100% - 59.5rem);
+  height: 8.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.1925;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Miltonian, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #dda0dd;
+  border-radius: 8rem;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .about-me-4v3 .auto-group-4nm5-J3h .p2-removebg-preview-1-uS7 {
+  width: 31.4rem;
+  height: 54.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5.2rem;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .my-work-p3H {
+  margin-right: 12rem;
+  width: 131.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .my-work-p3H .auto-group-pjco-xfH {
+  box-sizing: border-box;
+  padding: 0rem 38.75rem 5.55rem 57.65rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .my-work-p3H .auto-group-pjco-xfH .my-work--6Wb {
+  margin-bottom: 1.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4.5rem;
+  font-weight: 400;
+  line-height: 1.4225;
+  color: #ffffff;
+  font-family: Michroma, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .my-work-p3H .auto-group-pjco-xfH .click-the-button-to-view-source-code-Dr7 {
+  margin-right: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1925;
+  color: #ffffff;
+  font-family: Miltonian Tattoo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .my-work-p3H .auto-group-r6yu-LA3 {
+  width: 100%;
+  height: 111.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .my-work-p3H .auto-group-r6yu-LA3 .ellipse-4-FH1 {
+  width: 48rem;
+  height: 43.2rem;
+  position: absolute;
+  left: 19.5rem;
+  top: 52.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .my-work-p3H .auto-group-r6yu-LA3 .ellipse-3-aKH {
+  width: 30.8rem;
+  height: 28.5rem;
+  position: absolute;
+  left: 36.4rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .my-work-p3H .auto-group-r6yu-LA3 .ellipse-4-JFH {
+  width: 26.6rem;
+  height: 25.3rem;
+  position: absolute;
+  left: 0;
+  top: 24.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .my-work-p3H .auto-group-r6yu-LA3 .ellipse-6-S6b {
+  width: 26.6rem;
+  height: 25.3rem;
+  position: absolute;
+  left: 76.4rem;
+  top: 81.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .my-work-p3H .auto-group-r6yu-LA3 .ellipse-7-x4w {
+  width: 20.3rem;
+  height: 18.2rem;
+  position: absolute;
+  left: 76.4rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .my-work-p3H .auto-group-r6yu-LA3 .ellipse-5-tzB {
+  width: 26.6rem;
+  height: 25.3rem;
+  position: absolute;
+  left: 105.2rem;
+  top: 27.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .my-work-p3H .auto-group-r6yu-LA3 .ellipse-8-SF1 {
+  width: 26.6rem;
+  height: 25.3rem;
+  position: absolute;
+  left: 63.1rem;
+  top: 36.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .my-work-p3H .auto-group-r6yu-LA3 .landing-page-kmV {
+  width: 55.7rem;
+  height: 47.1rem;
+  position: absolute;
+  left: 49.3rem;
+  top: 64.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .my-work-p3H .auto-group-r6yu-LA3 .landing-page-kmV .landingpage-1-gv3 {
+  margin-bottom: 4.8rem;
+  width: 55.7rem;
+  height: 35.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .my-work-p3H .auto-group-r6yu-LA3 .landing-page-kmV .auto-group-7lnt-sUj {
+  margin: 0rem 15.05rem 0rem 13.45rem;
+  width: calc(100% - 28.5rem);
+  height: 6.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .my-work-p3H .auto-group-r6yu-LA3 .landing-page-kmV .auto-group-7lnt-sUj .rectangle-4-ACw {
+  width: 30.5rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 0.65rem;
+  top: 0;
+  background-color: #7d4e92;
+  border-radius: 36rem;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .my-work-p3H .auto-group-r6yu-LA3 .landing-page-kmV .auto-group-7lnt-sUj .landing-page-G15 {
+  width: 30.5rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 0;
+  top: 1.55rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2925;
+  text-decoration-line: underline;
+  color: #d8bfd8;
+  font-family: Sonsie One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .my-work-p3H .auto-group-r6yu-LA3 .to-do-list-vrK {
+  width: 48.6rem;
+  height: 47.6rem;
+  position: absolute;
+  left: 83.3rem;
+  top: 6.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .my-work-p3H .auto-group-r6yu-LA3 .to-do-list-vrK .todolist-1-TrF {
+  margin-bottom: 4rem;
+  width: 48.6rem;
+  height: 37.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .my-work-p3H .auto-group-r6yu-LA3 .to-do-list-vrK .auto-group-jee3-Y71 {
+  margin: 0rem 10.1rem 0rem 12rem;
+  width: calc(100% - 22.1rem);
+  height: 6.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2925;
+  text-decoration-line: underline;
+  color: #d8bfd8;
+  font-family: Sonsie One, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #7d4e92;
+  border-radius: 36rem;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .my-work-p3H .auto-group-r6yu-LA3 .calcu-bb5 {
+  width: 47.6rem;
+  height: 47.6rem;
+  position: absolute;
+  left: 18.7rem;
+  top: 6.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .my-work-p3H .auto-group-r6yu-LA3 .calcu-bb5 .screenshot-2024-02-11-225227-1-w99 {
+  margin-bottom: 4rem;
+  width: 47.6rem;
+  height: 37.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .auto-group-gyks-Hd9 .my-work-p3H .auto-group-r6yu-LA3 .calcu-bb5 .auto-group-gmtm-rX1 {
+  margin: 0rem 12.8rem 0rem 8.3rem;
+  width: calc(100% - 21.1rem);
+  height: 6.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2925;
+  text-decoration-line: underline;
+  color: #d8bfd8;
+  font-family: Sonsie One, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #7d4e92;
+  border-radius: 36rem;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .navigation-V4B {
+  width: 145.6rem;
+  height: 7.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.desktop-1-HK5 .navigation-V4B .rectangle-8-PQT {
+  width: 100%;
+  height: 7.2rem;
+  position: fixed;
+  left: 0;
+  top: 0;
+  background-color: #dda0dd;
+}
+.desktop-1-HK5 .navigation-V4B .navigation-LKh {
+  width: 121.85rem;
+  height: 7.7rem;
+  position: fixed;
+  left: 20.5rem;
+  top: 0;
+  display: flex;
+  align-items:center;
+}
+.desktop-1-HK5 .navigation-V4B .navigation-LKh .lei-removebg-preview-1-TfD {
+  margin-right: 58.6rem;
+  width: 7.2rem;
+  height: 7.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10.4rem;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .navigation-V4B .navigation-LKh .home-zQF {
+  margin-right: 5.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .navigation-V4B .navigation-LKh .about-me-HeF {
+  margin-right: 5.7rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .navigation-V4B .navigation-LKh .work-D27 {
+  margin-right: 6.05rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-HK5 .navigation-V4B .navigation-LKh .contact-us-uQj {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
